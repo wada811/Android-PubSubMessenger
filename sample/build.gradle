@@ -34,7 +34,7 @@ dependencies {
 
     implementation 'androidx.appcompat:appcompat:1.6.1'
     implementation 'androidx.activity:activity-ktx:1.8.0'
-    implementation 'androidx.fragment:fragment-ktx:1.6.1'
+    implementation 'androidx.fragment:fragment-ktx:1.8.6'
     implementation 'com.github.wada811:ViewModel-SavedState-ktx:2.3.0'
     implementation project(':PubSubMessenger')
     implementation 'com.wada811.databindingktx:databindingktx:7.0.0'
